@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/song1" android:title="song1"></item>
+    <item android:id="@+id/song2" android:title="song2"></item>
+    <item android:id="@+id/song3" android:title="song3"
+        android:onClick="playMusic"></item>
+
+</menu>
